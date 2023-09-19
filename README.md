@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashichhabra&label=Profile%20views&color=0e75b6&style=flat" alt="urvashichhabra" /> </p>
 
-- 🔭 I’m currently working on **power platform.**
+- 🔭 I’m currently working on **low code technologies.**
 
-- 🌱 I’m currently learning **power pages, power apps, docker and ORM.**
+- 🌱 I’m currently learning **power pages, power apps, aws amplify, docker and ORM.**
 
 - 👯 I’m looking to collaborate on **Fullstack projects.**
 
