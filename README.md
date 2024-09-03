@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashichhabra&label=Profile%20views&color=0e75b6&style=flat" alt="urvashichhabra" /> </p>
 
-- 🔭 I’m currently working on **low code technologies.**
-
-- 🌱 I’m currently learning **power pages, power apps, aws amplify, docker and ORM.**
+- 🔭 I’m a Software Engineer having 10+ years of experience working in various domains like full stack, backend, mobile apps and low code technologies like amplify, powerapps.
 
 - 👯 I’m looking to collaborate on **Fullstack projects.**
 
