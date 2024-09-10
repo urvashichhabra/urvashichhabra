@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Urvashi Chhabra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=urvashichhabra&icon=0&color=0)](https://visitcount.itsvg.in)
 
